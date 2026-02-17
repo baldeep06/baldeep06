@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hey, I'm Baldeep 👋
+
+🎓 CS + Finance @ University of Waterloo  
+💻 Software Engineer
+📍 Toronto, Canada  
 
 <!--
 **baldeep06/baldeep06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
