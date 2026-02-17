@@ -1,7 +1,9 @@
 # Hey, I'm Baldeep 👋
 
 🎓 CS + Finance @ University of Waterloo  
-💻 Software Engineer  
+
+💻 Software Engineer
+
 📍 Toronto, Canada  
 
 <!--
