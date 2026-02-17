@@ -1,6 +1,6 @@
 # Hey, I'm Baldeep 👋
 
-🎓 CS + Finance @ University of Waterloo  
+🎓 Computer Science and Finance @ University of Waterloo  
 
 💻 Software Engineer
 
